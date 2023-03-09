@@ -8,6 +8,10 @@ public class Main {
             System.out.println("Java is cool");
         }
 
+        for (int i = 0; i < 11; i++) {
+            System.out.println("is it working");
+
+        }
 
     }
 }
